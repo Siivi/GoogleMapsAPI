@@ -10,4 +10,4 @@ Kirjeldus
 Kasutades API CRUD kuvab andmed andmebaasist. Markereid on võimalik sinna lisada, muuta ja kustutada.
 
 Viited dokumendile
-<a herf="https://docs.google.com/document/d/1Sj5g7VGpMlwXJH_P17x1Z3DAzvOmMbnCyi4qRG4Iaf0/edit?usp=sharing">Lõputöö dokumentatsioon</a>
+<a href="https://docs.google.com/document/d/1Sj5g7VGpMlwXJH_P17x1Z3DAzvOmMbnCyi4qRG4Iaf0/edit?usp=sharing">Lõputöö dokumentatsioon</a>
