@@ -2,8 +2,6 @@
 
 try {
     require "config.php";
-
-
     $conn = new PDO($dsn, $user, $psw, $options);
     $sql = "SELECT * FROM markers";
 
@@ -26,8 +24,8 @@ foreach ($result as $place) {
 
 echo json_encode($places);
 
-//mysql query for get markers
-/*
+/*mysql query for get markers
+
 $places = [
     ['lat' => 58.247537, 'lng' => 22.479283],
     ['lat' => 58.247537, 'lng' => 22.48],
