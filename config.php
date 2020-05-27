@@ -54,6 +54,8 @@ class Database
         echo "<div style='padding:20px; background-color:yellow;'> Andmed lisatud</div>";
 
 
-    }   
+    } 
+    
+    
     
 }*/
