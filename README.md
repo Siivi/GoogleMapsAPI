@@ -12,4 +12,5 @@ Kasutades API CRUD kuvab andmed andmebaasist. Markereid on võimalik sinna lisad
 Viited dokumendile
 <a href="https://docs.google.com/document/d/1Sj5g7VGpMlwXJH_P17x1Z3DAzvOmMbnCyi4qRG4Iaf0/edit?usp=sharing">Lõputöö dokumentatsioon</a>
  
-<a href="https://ta18pahapill.itmajakas.ee/GoogleMapsAPI/">Korilase kordinaatide laegas</a>
+<a href="https://ta18pahapill.itmajakas.ee/GoogleMapsAPI/">Korilase koordinaatide laegas</a>
+
